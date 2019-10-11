@@ -1,0 +1,3 @@
+﻿  WINAPI.cpp
+C:\Polly\АиП\WinAPI\WINAPI\WINAPI.cpp(53): warning C4101: hlnst: неиспользованная локальная переменная
+  WINAPI.vcxproj -> C:\Polly\АиП\WinAPI\WINAPI\Debug\WINAPI.exe
