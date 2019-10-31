@@ -1,0 +1,4 @@
+﻿  WINAPIfourie.cpp
+C:\Polly\АиП\WinAPI\WINAPIfourie\WINAPIfourie.cpp(94): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Polly\АиП\WinAPI\WINAPIfourie\WINAPIfourie.cpp(103): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  WINAPIfourie.vcxproj -> C:\Polly\АиП\WinAPI\WINAPIfourie\Debug\WINAPIfourie.exe
