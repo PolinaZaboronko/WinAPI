@@ -1,0 +1,7 @@
+﻿  WINAPIlog.cpp
+C:\Polly\АиП\WinAPI\WINAPIlog\WINAPIlog.cpp(50): warning C4101: hPen: неиспользованная локальная переменная
+C:\Polly\АиП\WinAPI\WINAPIlog\WINAPIlog.cpp(52): warning C4101: x_scr: неиспользованная локальная переменная
+C:\Polly\АиП\WinAPI\WINAPIlog\WINAPIlog.cpp(53): warning C4101: x: неиспользованная локальная переменная
+C:\Polly\АиП\WinAPI\WINAPIlog\WINAPIlog.cpp(53): warning C4101: h: неиспользованная локальная переменная
+C:\Polly\АиП\WinAPI\WINAPIlog\WINAPIlog.cpp(52): warning C4101: y_scr: неиспользованная локальная переменная
+  WINAPIlog.vcxproj -> C:\Polly\АиП\WinAPI\WINAPIlog\Debug\WINAPIlog.exe
