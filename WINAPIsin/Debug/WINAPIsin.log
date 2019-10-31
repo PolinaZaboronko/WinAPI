@@ -1,0 +1,4 @@
+﻿  WINAPIsin.cpp
+C:\Polly\АиП\WinAPI\WINAPIsin\WINAPIsin.cpp(92): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Polly\АиП\WinAPI\WINAPIsin\WINAPIsin.cpp(93): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  WINAPIsin.vcxproj -> C:\Polly\АиП\WinAPI\WINAPIsin\Debug\WINAPIsin.exe
